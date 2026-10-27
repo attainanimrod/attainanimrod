@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sibusiso Mahlobo
 
-<!--
-**attainanimrod/attainanimrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solutions Analyst and Power Platform developer in Johannesburg. I build the reporting,
+automation and data checks that operations teams rely on, mostly on the Microsoft stack.
 
-Here are some ideas to get you started:
+**Work I do**
+- Power BI reporting and semantic models, including custom HTML/DAX visuals
+- Power Apps and Power Automate solutions for request intake, audits and approvals
+- Data validation and reconciliation before data reaches decision-makers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning:** SQL in depth, Python (pandas), Microsoft Fabric
+
+**Also:** I run [Eve Integrations](https://eveintegrations.co.za), building websites and
+business systems for small businesses.
+
+**Coming here:** a public data-validation project (SQL + Python), early 2027.
+
+[LinkedIn](https://www.linkedin.com/in/sn-mahlobo)
